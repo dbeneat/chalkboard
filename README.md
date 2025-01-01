@@ -1,2 +1,2 @@
-# Chalkboard
+# chalkboard
 A small TeX notepad
